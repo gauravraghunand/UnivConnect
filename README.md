@@ -17,3 +17,9 @@ UnivConnect is an AI-powered student engagement platform designed for university
 
 🏆 Recognition
 * Pitched at Venture Devils (Arizona State University) and awarded the Just Start Award for promising innovation.
+
+📂 Project Files
+* UnivConnect Links.pdf → Contains the Figma prototype link and Google Forms Excel survey response link.
+* forms.pdf → PDF print of Google Forms survey responses (raw student feedback).
+* Venture_Devils - UnivConnect.pdf → Main pitch deck presentation used for the ASU Venture Devils competition.
+* executive summary univconnect.pdf → One-page executive summary document covering problem, solution, market, and execution strategy.
